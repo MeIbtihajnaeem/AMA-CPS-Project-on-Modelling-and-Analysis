@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ASCII"?>
+<models:Project xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:models="http://www.mobius.illinois.edu/projects" name="ProjectLatest" author="Fasih" creationDate="2023-07-04T17:39:31.934+0200" lastSavedVersion="2.5.10.201907161116">
+  <atomic key="AtomicModel">
+    <value name="AtomicModel" type="SAN Model"/>
+  </atomic>
+  <reward key="RewardCalc">
+    <value name="RewardCalc" category="Reward" type="Performance Variables Model"/>
+  </reward>
+  <study key="setStudy">
+    <value name="setStudy" category="Study" type="Set Study"/>
+  </study>
+  <transformer key="ssg">
+    <value name="ssg" category="Transformer" type="State Space Generator"/>
+  </transformer>
+  <solver key="dsss">
+    <value name="dsss" category="Solver" type="Direct Steady State Solver"/>
+  </solver>
+  <solver key="tss">
+    <value name="tss" category="Solver" type="Transient Solver"/>
+  </solver>
+</models:Project>

@@ -1,0 +1,106 @@
+
+**********************************************************
+
+State Generation initiated on Experiment_1 of ssg started at Wed Jul 19 00:30:24 CEST 2023 ...
+path=[c:/MobiusProject/ProjectLatest/Transformer/ssg/]
+License File=C:\Users\Fasih\AppData\Local\Temp\mobius6888006640435048907license
+License Verified.
+The Global Variable values for experiment Experiment 1 are:
+lambda	double	0.1
+meo	double	0.1
+SSG: SetTraceLevel: 0
+
+Generated: 44 states
+Computation Time (user + system): 0.000000e+000 seconds
+State Generation of Experiment_1 on model ssg finished at Wed Jul 19 00:30:24 CEST 2023.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on exp2 of ssg started at Wed Jul 19 00:30:24 CEST 2023 ...
+path=[c:/MobiusProject/ProjectLatest/Transformer/ssg/]
+License File=C:\Users\Fasih\AppData\Local\Temp\mobius1928272260521303370license
+License Verified.
+The Global Variable values for experiment Experiment 2 are:
+lambda	double	0.01
+meo	double	0.01
+SSG: SetTraceLevel: 0
+
+Generated: 44 states
+Computation Time (user + system): 0.000000e+000 seconds
+State Generation of exp2 on model ssg finished at Wed Jul 19 00:30:24 CEST 2023.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on exp3 of ssg started at Wed Jul 19 00:30:24 CEST 2023 ...
+path=[c:/MobiusProject/ProjectLatest/Transformer/ssg/]
+License File=C:\Users\Fasih\AppData\Local\Temp\mobius6129627886207567278license
+License Verified.
+The Global Variable values for experiment Experiment 3 are:
+lambda	double	0.001
+meo	double	0.001
+SSG: SetTraceLevel: 0
+
+Generated: 44 states
+Computation Time (user + system): 1.000000e-002 seconds
+State Generation of exp3 on model ssg finished at Wed Jul 19 00:30:25 CEST 2023.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on exp4 of ssg started at Wed Jul 19 00:30:25 CEST 2023 ...
+path=[c:/MobiusProject/ProjectLatest/Transformer/ssg/]
+License File=C:\Users\Fasih\AppData\Local\Temp\mobius2777543064391289945license
+License Verified.
+The Global Variable values for experiment Experiment 4 are:
+lambda	double	0.001
+meo	double	0.1
+SSG: SetTraceLevel: 0
+
+Generated: 44 states
+Computation Time (user + system): 1.600000e-002 seconds
+State Generation of exp4 on model ssg finished at Wed Jul 19 00:30:25 CEST 2023.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on exp5 of ssg started at Wed Jul 19 00:30:25 CEST 2023 ...
+path=[c:/MobiusProject/ProjectLatest/Transformer/ssg/]
+License File=C:\Users\Fasih\AppData\Local\Temp\mobius4973891210314354031license
+License Verified.
+The Global Variable values for experiment Experiment 5 are:
+lambda	double	0.1
+meo	double	0.001
+SSG: SetTraceLevel: 0
+
+Generated: 44 states
+Computation Time (user + system): 1.600000e-002 seconds
+State Generation of exp5 on model ssg finished at Wed Jul 19 00:30:26 CEST 2023.
+
+
+**********************************************************
+
+**********************************************************
+
+State Generation initiated on exp6 of ssg started at Wed Jul 19 00:30:26 CEST 2023 ...
+path=[c:/MobiusProject/ProjectLatest/Transformer/ssg/]
+License File=C:\Users\Fasih\AppData\Local\Temp\mobius2062519427507887358license
+License Verified.
+The Global Variable values for experiment Experiment 6 are:
+lambda	double	0.0001
+meo	double	0.0001
+SSG: SetTraceLevel: 0
+
+Generated: 44 states
+Computation Time (user + system): 9.000000e-003 seconds
+State Generation of exp6 on model ssg finished at Wed Jul 19 00:30:26 CEST 2023.
+

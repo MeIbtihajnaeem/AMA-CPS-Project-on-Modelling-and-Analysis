@@ -1,0 +1,38 @@
+Mobius dss Version 2.5, 
+Copyright (c) William H. Sanders and Univ. of Illinois 1994-2010
+
+******************************************************************************
+                      Mobius DIRECT STEADY STATE SOLVER 
+
+                     DIRECT STEADY STATE SOLVER RESULTS
+******************************************************************************
+
+Started: Wed Jul 19 00:30:47 2023
+
+Project name: ProjectLatest
+Study name: setStudy
+State space name: ssg
+Experiment name: exp6
+
+Global variable settings for this experiment:
+	lambda = 1.0E-4
+	meo = 1.0E-4
+
+Verbosity: 0
+Accuracy: 1.000000e-009
+Tolerance: 1.000000e-003
+Stability: 0
+Rows: 0
+
+Computation Time (seconds): 0.000000
+User Time (seconds): 0.000000
+System Time (seconds): 0.000000
+******************************************************************************
+Performance variable :  Availibility
+Mean                 :  3.408260e-001
+Variance             :  2.246636e-001
+Plot files    (pdf)  :  exp6.dss.Availibility.pdf.splot
+              (cdf)  :  exp6.dss.Availibility.cdf.splot
+DSSSolver done
+Finished: Wed Jul 19 00:30:47 2023
+
